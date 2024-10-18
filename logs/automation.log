@@ -285,3 +285,27 @@
 17:52:49.218 [main] INFO  tests.StoreTest - ====================Starting test case====================
 17:52:49.543 [main] INFO  tests.StoreTest - PASSED
 17:52:49.543 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+18:40:57.684 [main] INFO  tests.UserTest - ====================Starting test case====================
+18:41:00.953 [main] INFO  tests.UserTest - PASSED
+18:41:00.953 [main] INFO  tests.UserTest - =====================Ending test case=====================
+18:41:00.995 [main] INFO  tests.UserTest - ====================Starting test case====================
+18:41:01.392 [main] INFO  tests.UserTest - PASSED
+18:41:01.393 [main] INFO  tests.UserTest - =====================Ending test case=====================
+18:41:01.406 [main] INFO  tests.UserTest - ====================Starting test case====================
+18:41:02.092 [main] INFO  tests.UserTest - PASSED
+18:41:02.092 [main] INFO  tests.UserTest - =====================Ending test case=====================
+18:41:02.101 [main] INFO  tests.UserTest - ====================Starting test case====================
+18:41:02.429 [main] INFO  tests.UserTest - PASSED
+18:41:02.429 [main] INFO  tests.UserTest - =====================Ending test case=====================
+18:41:02.444 [main] INFO  tests.StoreTest - ====================Starting test case====================
+18:41:02.771 [main] INFO  tests.StoreTest - PASSED
+18:41:02.771 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+18:41:02.782 [main] INFO  tests.StoreTest - ====================Starting test case====================
+18:41:03.123 [main] INFO  tests.StoreTest - PASSED
+18:41:03.123 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+18:41:03.133 [main] INFO  tests.StoreTest - ====================Starting test case====================
+18:41:03.463 [main] INFO  tests.StoreTest - PASSED
+18:41:03.464 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+18:41:03.475 [main] INFO  tests.StoreTest - ====================Starting test case====================
+18:41:03.808 [main] INFO  tests.StoreTest - PASSED
+18:41:03.809 [main] INFO  tests.StoreTest - =====================Ending test case=====================
