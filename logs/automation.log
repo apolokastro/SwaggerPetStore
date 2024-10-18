@@ -1,0 +1,287 @@
+01:33:59.375 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:33:59.386 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:33:59.388 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:33:59.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:33:59.430 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:33:59.431 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:33:59.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:33:59.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:33:59.464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:33:59.499 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:33:59.501 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:33:59.502 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:33:59.532 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:33:59.534 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:33:59.535 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:33:59.570 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:33:59.571 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:33:59.572 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:34:03.603 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:34:03.605 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:34:03.606 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:34:03.641 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:34:03.642 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:34:03.644 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:34:03.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:34:03.675 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:34:03.676 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:34:03.706 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:34:03.707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:34:03.709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:37:50.355 [main] INFO  tests.UserTest - ----------------Starting test case
+01:37:53.728 [main] INFO  tests.UserTest - PASSED
+01:37:53.729 [main] INFO  tests.UserTest - ----------------Ending test case
+01:37:53.775 [main] INFO  tests.UserTest - ----------------Starting test case
+01:37:54.196 [main] INFO  tests.UserTest - PASSED
+01:37:54.196 [main] INFO  tests.UserTest - ----------------Ending test case
+01:37:54.213 [main] INFO  tests.UserTest - ----------------Starting test case
+01:37:54.892 [main] INFO  tests.UserTest - PASSED
+01:37:54.893 [main] INFO  tests.UserTest - ----------------Ending test case
+01:37:54.904 [main] INFO  tests.UserTest - ----------------Starting test case
+01:37:55.227 [main] INFO  tests.UserTest - PASSED
+01:37:55.227 [main] INFO  tests.UserTest - ----------------Ending test case
+13:30:12.333 [main] INFO  tests.UserTest - ----------------Starting test case
+13:30:15.787 [main] INFO  tests.UserTest - PASSED
+13:30:15.787 [main] INFO  tests.UserTest - ----------------Ending test case
+13:30:15.812 [main] INFO  tests.UserTest - ----------------Starting test case
+13:30:16.187 [main] INFO  tests.UserTest - PASSED
+13:30:16.187 [main] INFO  tests.UserTest - ----------------Ending test case
+13:30:16.194 [main] INFO  tests.UserTest - ----------------Starting test case
+13:30:16.870 [main] INFO  tests.UserTest - PASSED
+13:30:16.870 [main] INFO  tests.UserTest - ----------------Ending test case
+13:30:16.876 [main] INFO  tests.UserTest - ----------------Starting test case
+13:30:17.207 [main] INFO  tests.UserTest - PASSED
+13:30:17.207 [main] INFO  tests.UserTest - ----------------Ending test case
+14:28:46.319 [main] INFO  tests.UserTest - ----------------Starting test case
+14:28:49.687 [main] INFO  tests.UserTest - PASSED
+14:28:49.688 [main] INFO  tests.UserTest - ----------------Ending test case
+14:28:49.712 [main] INFO  tests.UserTest - ----------------Starting test case
+14:28:50.088 [main] INFO  tests.UserTest - PASSED
+14:28:50.088 [main] INFO  tests.UserTest - ----------------Ending test case
+14:28:50.101 [main] INFO  tests.UserTest - ----------------Starting test case
+14:28:50.767 [main] INFO  tests.UserTest - PASSED
+14:28:50.767 [main] INFO  tests.UserTest - ----------------Ending test case
+14:28:50.774 [main] INFO  tests.UserTest - ----------------Starting test case
+14:28:51.095 [main] INFO  tests.UserTest - PASSED
+14:28:51.096 [main] INFO  tests.UserTest - ----------------Ending test case
+14:31:39.947 [main] INFO  tests.UserTest - ----------------Starting test case
+14:31:43.195 [main] INFO  tests.UserTest - PASSED
+14:31:43.195 [main] INFO  tests.UserTest - ----------------Ending test case
+14:31:43.224 [main] INFO  tests.UserTest - ----------------Starting test case
+14:31:43.597 [main] INFO  tests.UserTest - PASSED
+14:31:43.597 [main] INFO  tests.UserTest - ----------------Ending test case
+14:31:43.610 [main] INFO  tests.UserTest - ----------------Starting test case
+14:31:44.284 [main] INFO  tests.UserTest - PASSED
+14:31:44.285 [main] INFO  tests.UserTest - ----------------Ending test case
+14:31:44.294 [main] INFO  tests.UserTest - ----------------Starting test case
+14:31:44.620 [main] INFO  tests.UserTest - PASSED
+14:31:44.620 [main] INFO  tests.UserTest - ----------------Ending test case
+15:19:53.662 [main] INFO  tests.StoreTest - ====================Starting test case====================
+15:19:56.615 [main] INFO  tests.StoreTest - PASSED
+15:19:56.615 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:01:37.058 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:01:40.071 [main] INFO  tests.StoreTest - PASSED
+16:01:40.072 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:02:12.762 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:02:15.766 [main] INFO  tests.StoreTest - PASSED
+16:02:15.766 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:02:15.794 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:05:15.043 [main] INFO  tests.UserTest - ====================Starting test case====================
+16:05:18.238 [main] INFO  tests.UserTest - PASSED
+16:05:18.238 [main] INFO  tests.UserTest - =====================Ending test case=====================
+16:05:18.275 [main] INFO  tests.UserTest - ====================Starting test case====================
+16:05:18.643 [main] INFO  tests.UserTest - PASSED
+16:05:18.644 [main] INFO  tests.UserTest - =====================Ending test case=====================
+16:05:18.656 [main] INFO  tests.UserTest - ====================Starting test case====================
+16:05:19.332 [main] INFO  tests.UserTest - PASSED
+16:05:19.332 [main] INFO  tests.UserTest - =====================Ending test case=====================
+16:05:19.340 [main] INFO  tests.UserTest - ====================Starting test case====================
+16:05:19.659 [main] INFO  tests.UserTest - PASSED
+16:05:19.659 [main] INFO  tests.UserTest - =====================Ending test case=====================
+16:07:19.588 [main] INFO  tests.UserTest - ====================Starting test case====================
+16:07:22.889 [main] INFO  tests.UserTest - PASSED
+16:07:22.889 [main] INFO  tests.UserTest - =====================Ending test case=====================
+16:07:22.912 [main] INFO  tests.UserTest - ====================Starting test case====================
+16:07:23.280 [main] INFO  tests.UserTest - PASSED
+16:07:23.281 [main] INFO  tests.UserTest - =====================Ending test case=====================
+16:07:23.291 [main] INFO  tests.UserTest - ====================Starting test case====================
+16:07:23.958 [main] INFO  tests.UserTest - PASSED
+16:07:23.959 [main] INFO  tests.UserTest - =====================Ending test case=====================
+16:07:23.968 [main] INFO  tests.UserTest - ====================Starting test case====================
+16:07:24.291 [main] INFO  tests.UserTest - PASSED
+16:07:24.291 [main] INFO  tests.UserTest - =====================Ending test case=====================
+16:08:06.974 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:08:09.887 [main] INFO  tests.StoreTest - PASSED
+16:08:09.888 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:08:09.915 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:10:21.887 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:10:25.035 [main] INFO  tests.StoreTest - PASSED
+16:10:25.035 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:10:25.063 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:10:25.754 [main] INFO  tests.StoreTest - PASSED
+16:10:25.755 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:13:52.236 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:13:55.192 [main] INFO  tests.StoreTest - PASSED
+16:13:55.192 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:13:55.221 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:13:55.923 [main] INFO  tests.StoreTest - PASSED
+16:13:55.924 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:15:09.584 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:15:12.648 [main] INFO  tests.StoreTest - PASSED
+16:15:12.648 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:15:12.696 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:15:13.462 [main] INFO  tests.StoreTest - PASSED
+16:15:13.463 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:22:43.288 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:22:46.198 [main] INFO  tests.StoreTest - PASSED
+16:22:46.198 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:22:46.241 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:22:47.059 [main] INFO  tests.StoreTest - PASSED
+16:22:47.059 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:22:47.070 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:22:47.427 [main] INFO  tests.StoreTest - PASSED
+16:22:47.428 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:25:24.641 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:25:27.811 [main] INFO  tests.StoreTest - PASSED
+16:25:27.811 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:25:27.840 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:25:28.634 [main] INFO  tests.StoreTest - PASSED
+16:25:28.634 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:25:28.645 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:25:28.999 [main] INFO  tests.StoreTest - PASSED
+16:25:28.999 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:25:29.009 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:25:29.346 [main] INFO  tests.StoreTest - PASSED
+16:25:29.347 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:33:33.056 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:33:36.078 [main] INFO  tests.StoreTest - PASSED
+16:33:36.078 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:33:36.106 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:33:36.820 [main] INFO  tests.StoreTest - PASSED
+16:33:36.820 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:33:36.832 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:33:37.179 [main] INFO  tests.StoreTest - PASSED
+16:33:37.179 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+16:33:37.190 [main] INFO  tests.StoreTest - ====================Starting test case====================
+16:33:37.525 [main] INFO  tests.StoreTest - PASSED
+16:33:37.526 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:12:56.682 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:12:59.948 [main] INFO  tests.UserTest - PASSED
+17:12:59.949 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:12:59.981 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:13:00.366 [main] INFO  tests.UserTest - PASSED
+17:13:00.366 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:13:00.379 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:13:01.062 [main] INFO  tests.UserTest - PASSED
+17:13:01.062 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:13:01.073 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:13:01.403 [main] INFO  tests.UserTest - PASSED
+17:13:01.403 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:13:01.420 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:13:01.752 [main] INFO  tests.StoreTest - PASSED
+17:13:01.753 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:13:01.763 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:13:02.105 [main] INFO  tests.StoreTest - PASSED
+17:13:02.106 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:13:02.120 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:13:02.446 [main] INFO  tests.StoreTest - PASSED
+17:13:02.447 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:13:02.457 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:13:02.791 [main] INFO  tests.StoreTest - PASSED
+17:13:02.792 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:45:10.588 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:45:14.187 [main] INFO  tests.UserTest - PASSED
+17:45:14.187 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:45:14.217 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:45:14.590 [main] INFO  tests.UserTest - PASSED
+17:45:14.591 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:45:14.613 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:45:15.287 [main] INFO  tests.UserTest - PASSED
+17:45:15.287 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:45:15.297 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:45:15.623 [main] INFO  tests.UserTest - PASSED
+17:45:15.623 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:45:15.638 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:45:15.972 [main] INFO  tests.StoreTest - PASSED
+17:45:15.973 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:45:15.983 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:45:16.316 [main] INFO  tests.StoreTest - PASSED
+17:45:16.317 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:45:16.328 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:45:16.665 [main] INFO  tests.StoreTest - PASSED
+17:45:16.665 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:45:16.676 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:45:17.004 [main] INFO  tests.StoreTest - PASSED
+17:45:17.005 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:49:12.638 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:49:15.948 [main] INFO  tests.UserTest - PASSED
+17:49:15.948 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:49:15.981 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:49:16.355 [main] INFO  tests.UserTest - PASSED
+17:49:16.355 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:49:16.367 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:49:17.056 [main] INFO  tests.UserTest - PASSED
+17:49:17.057 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:49:17.067 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:49:17.392 [main] INFO  tests.UserTest - PASSED
+17:49:17.392 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:49:17.409 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:49:17.754 [main] INFO  tests.StoreTest - PASSED
+17:49:17.754 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:49:17.765 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:49:18.099 [main] INFO  tests.StoreTest - PASSED
+17:49:18.099 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:49:18.109 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:49:18.445 [main] INFO  tests.StoreTest - PASSED
+17:49:18.446 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:49:18.455 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:49:18.787 [main] INFO  tests.StoreTest - PASSED
+17:49:18.788 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:50:59.688 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:51:03.276 [main] INFO  tests.UserTest - PASSED
+17:51:03.276 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:51:03.318 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:51:03.703 [main] INFO  tests.UserTest - PASSED
+17:51:03.703 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:51:03.720 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:51:04.395 [main] INFO  tests.UserTest - PASSED
+17:51:04.395 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:51:04.406 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:51:04.732 [main] INFO  tests.UserTest - PASSED
+17:51:04.732 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:51:04.748 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:51:05.074 [main] INFO  tests.StoreTest - PASSED
+17:51:05.075 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:51:05.086 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:51:05.421 [main] INFO  tests.StoreTest - PASSED
+17:51:05.422 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:51:05.433 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:51:05.760 [main] INFO  tests.StoreTest - PASSED
+17:51:05.761 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:51:05.772 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:51:06.099 [main] INFO  tests.StoreTest - PASSED
+17:51:06.100 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:52:43.479 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:52:46.754 [main] INFO  tests.UserTest - PASSED
+17:52:46.755 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:52:46.789 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:52:47.148 [main] INFO  tests.UserTest - PASSED
+17:52:47.149 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:52:47.155 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:52:47.842 [main] INFO  tests.UserTest - PASSED
+17:52:47.842 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:52:47.847 [main] INFO  tests.UserTest - ====================Starting test case====================
+17:52:48.179 [main] INFO  tests.UserTest - PASSED
+17:52:48.179 [main] INFO  tests.UserTest - =====================Ending test case=====================
+17:52:48.191 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:52:48.521 [main] INFO  tests.StoreTest - PASSED
+17:52:48.521 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:52:48.527 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:52:48.876 [main] INFO  tests.StoreTest - PASSED
+17:52:48.876 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:52:48.881 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:52:49.213 [main] INFO  tests.StoreTest - PASSED
+17:52:49.213 [main] INFO  tests.StoreTest - =====================Ending test case=====================
+17:52:49.218 [main] INFO  tests.StoreTest - ====================Starting test case====================
+17:52:49.543 [main] INFO  tests.StoreTest - PASSED
+17:52:49.543 [main] INFO  tests.StoreTest - =====================Ending test case=====================

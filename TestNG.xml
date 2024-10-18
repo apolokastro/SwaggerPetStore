@@ -1,0 +1,40 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite">
+
+	<listeners>
+		<listener class-name="utils.ExtentReport"></listener>
+	</listeners>
+
+	<test name="SwaggerPetStore">
+		<groups>
+			<run>
+				<include name="RegressionUserTest"></include>
+				<include name="RegressionStoreTest"></include>
+			</run>
+		</groups>
+		<classes>
+			<class name="tests.UserTest">
+				<methods>
+					<include name="CreatePetStoreUser"></include>
+					<include name="GetPetStoreUserDetails"></include>
+					<include name="UpdatePetStoreUserDetails"></include>
+					<include name="DeletePetStoreUser"></include>
+				</methods>
+			</class>
+			<class name="tests.StoreTest">
+				<methods>
+					<include name="GetPetStoreInventory"></include>
+					<include name="PlacePetStoreOrder"></include>
+					<include name="GetPetStoreOrder"></include>
+					<include name="DeletePetStoreOrder"></include>
+				</methods>
+			</class>
+			<!-- <class name="tests.DDUserTest"> -->
+			<!-- <methods> -->
+			<!-- <include name="ddtestPostUser"></include> -->
+			<!-- <include name="ddtestDeleteUserByName"></include> -->
+			<!-- </methods> -->
+			<!-- </class> -->
+		</classes>
+	</test>
+</suite>
